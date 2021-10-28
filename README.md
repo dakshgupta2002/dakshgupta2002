@@ -2,27 +2,25 @@
 ### I am a Software Engineer - Machine Learning engineer looking forward to learn more about latest technology with ability to query MySQL database ###
 
 
-Inline Includes With Custom Markdown Below file will be included inside HTML blockquote element
-<!-- include [code] template/thankyou.md --> 
-
-Inline Includes With Custom Markdown Below file will be included inside HTML blockquote element
-<!-- include [code:json] template/contents.json --> 
-
-Reusable Includes Custom Markdown :
-<!-- START [code] template/file.md -->
-<!-- END [code] template/file.md -->
-
-Reusable Includes Custom Markdown :
-<!-- START [code:json] template/contents.json -->
-<!-- END [code:json] template/contents.json -->
-
-
-
-
 - 🔭 I’m currently working on becoming better of what I do...
 - 👯 I’m looking to collaborate on a major project for hackathon...
-- 📫 How to reach me: ...
-- 
+- 📫 How to reach me:
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
+
 ![Daksh Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&theme=outrun)
 
 JS is definitely my favourite language 🥰
