@@ -1,5 +1,9 @@
 ### Hi there 👋
 ![Daksh Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgupta2002&layout=compact)](https://github.com/dakshgupta2002/github-readme-stats)
+
 <!--
 **dakshgupta2002/dakshgupta2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
