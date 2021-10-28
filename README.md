@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on a major project for hackathon...
 - 📫 How to reach me:
 
-![Github](https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20without%20padding/github.png)[LinkedIn](https://www.linkedin.com/in/daksh-gupta-496203201/)
+![LinkedIN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-wpbdt&psig=AOvVaw2nGTPTqFQyJkGcugOPaxnu&ust=1635522036578000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJizvce47fMCFQAAAAAdAAAAABAD)[LinkedIn](https://www.linkedin.com/in/daksh-gupta-496203201/)
 
 
 ![Daksh Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&theme=outrun)
