@@ -2,18 +2,20 @@
 ### I am a Software Engineer - Machine Learning engineer looking forward to learn more about latest technology with ability to query MySQL database ###
 
 
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+Inline Includes With Custom Markdown Below file will be included inside HTML blockquote element
+<!-- include [code] template/thankyou.md --> 
+
+Inline Includes With Custom Markdown Below file will be included inside HTML blockquote element
+<!-- include [code:json] template/contents.json --> 
+
+Reusable Includes Custom Markdown :
+<!-- START [code] template/file.md -->
+<!-- END [code] template/file.md -->
+
+Reusable Includes Custom Markdown :
+<!-- START [code:json] template/contents.json -->
+<!-- END [code:json] template/contents.json -->
+
 
 
 
