@@ -1,5 +1,5 @@
-### Hi there ### 👋
-***I am a Software Engineer - Machine Learning engineer looking forward to learn more about latest technology with ability to query MySQL database ***
+# Hi there👋
+**I am a Software Engineer - Machine Learning engineer looking forward to learn more about latest technology with ability to query MySQL database
 
 
 - 🔭 I’m currently working on becoming better of what I do...
