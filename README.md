@@ -1,19 +1,19 @@
-### Hi there### 👋
-### I am a Software Engineer - Machine Learning engineer looking forward to learn more about latest technology with ability to query MySQL database ###
+### Hi there ### 👋
+***I am a Software Engineer - Machine Learning engineer looking forward to learn more about latest technology with ability to query MySQL database ***
 
 
 - 🔭 I’m currently working on becoming better of what I do...
 - 👯 I’m looking to collaborate on a major project for hackathon...
 - 📫 How to reach me:
 
-[![alt text][1.1]][1]
+[![alt text][http://www.twitter.com/carlsednaoui]]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: 
 [2]: http://www.facebook.com/sednaoui
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
