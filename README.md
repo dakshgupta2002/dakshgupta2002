@@ -6,19 +6,7 @@
 - 👯 I’m looking to collaborate on a major project for hackathon...
 - 📫 How to reach me:
 
-[![alt text][http://www.twitter.com/carlsednaoui]]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-[1]: 
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+![LinkedIn](https://www.linkedin.com/in/daksh-gupta-496203201/)
 
 
 ![Daksh Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&theme=outrun)
