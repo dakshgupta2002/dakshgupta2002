@@ -6,12 +6,14 @@
 - 👯 I’m looking to collaborate on a major project for hackathon...
 - 📫 How to reach me:
 
-![LinkedIN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-wpbdt&psig=AOvVaw2nGTPTqFQyJkGcugOPaxnu&ust=1635522036578000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJizvce47fMCFQAAAAAdAAAAABAD)[LinkedIn](https://www.linkedin.com/in/daksh-gupta-496203201/)
+[LinkedIn](https://www.linkedin.com/in/daksh-gupta-496203201/)
+[Codeforces](https://codeforces.com/profile/daksh_g123)
+[Email](dakshgupta2002@gmail.com)
 
 
 ![Daksh Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&theme=outrun)
 
-JS is definitely my favourite language 🥰
+JS is definitely my favourite language 🥰        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgupta2002&layout=compact)](https://github.com/dakshgupta2002/github-readme-stats)
 
 <!--
