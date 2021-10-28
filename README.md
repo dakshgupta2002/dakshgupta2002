@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on a major project for hackathon...
 - 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/daksh-gupta-496203201/)
-[Codeforces](https://codeforces.com/profile/daksh_g123)
-[Email](dakshgupta2002@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/daksh-gupta-496203201/)   
+[Codeforces](https://codeforces.com/profile/daksh_g123)   
+[Email](dakshgupta2002@gmail.com)      
 
 
 ![Daksh Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&theme=outrun)
