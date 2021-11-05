@@ -17,7 +17,8 @@ Email : dakshgupta2002@gmail.com
 
 ![Daksh Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&theme=outrun)
 
-#### JS is the language of maximum expertise     
+#### In my view JS is the most versatile and capable language. What are your thought?
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgupta2002&layout=compact)](https://github.com/dakshgupta2002/github-readme-stats)
 
 <!--
