@@ -19,7 +19,7 @@ Email : dakshgupta2002@gmail.com
 
 #### In my view JS is the most versatile and capable language. What are your thought?
 
-[Kamehameha](https://tenor.com/view/goku-ultra-instinct-kefla-dragon-balls-super-gif-10454830)
+[Kamehameha](https://tenor.com/view/goku-ultra-instinct-kefla-dragon-balls-super-gif-10454830.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgupta2002&layout=compact)](https://github.com/dakshgupta2002/github-readme-stats)
 
