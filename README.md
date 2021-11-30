@@ -1,9 +1,10 @@
 # Hi there👋
-_**I am a Software Engineer - Machine Learning engineer looking forward to learn more about latest technology with ability to query MySQL database.**_
+_**I am a Software Engineer looking forward to learn more about latest technology with ability to produce clean re-usable code.**_
 
 
-- 🔭 I’m currently working on training a database and generate APIs in a website...
+- 🔭 I’m currently working on authenticating and authorizing and generate APIs in a website...
 - 👯 I’m looking to collaborate on a major project for hackathon...
+
 
  🌑˚　　.　　✦　🪐　　.　　. 　 ✦˚　.　　 　. 　.　　　.　 ✦　🪐　　.　　🌍˚　　　. ✦ 　.　 . ˚ 　🌙　✦˚　　　*　˚　　 ✦　　.　　.　　✦　　˚ 　.　 .　　˚　.　*　　.🌑˚　　.　　✦　🪐　　.　　.🌑˚　　.　　✦　🪐　　.　　. 　 ✦˚　.　　 　. 　.　　　.　 ✦　🪐　　.　　🌍˚　　　. ✦ 　.　 . ˚ 　🌙　✦˚　　　*　˚　　 ✦　　.　　.　　✦　　˚ 　.　 .　　˚　.　*　　.🌑˚　　.　　✦　🪐　　.　　.🌑˚　　.　　✦　🪐　　.　　. 　 ✦˚　.　　 　. 　.　　　.　 ✦　🪐　　.　　🌍˚　　　. ✦ 　.　 . ˚ 　🌙　✦˚　　　*　˚　　 ✦　　.　　.　　✦　　˚ 　.　
 
@@ -19,7 +20,8 @@ Email : dakshgupta2002@gmail.com
 
 ![Daksh Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&theme=outrun)
 
-#### In my view JS is the most versatile and capable language. What are your thought?
+#### In my view JS is the most versatile and capable language. It is a multi-paradime language making it the best buddy for developers.   
+What are your thoughts?
 
 <!--[Kamehameha](https://c.tenor.com/khwqWo5ouEAAAAAC/goku-ultra-instinct.gif)-->
 
