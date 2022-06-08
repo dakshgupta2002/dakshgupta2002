@@ -46,16 +46,33 @@ I have worked with a couple startups as a Full Stack Intern. Checkout my pinned 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/dakshgupta2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daksh-gupta-496203201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>  
+<p align="left"> 
+<a href="https://www.github.com/dakshgupta2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/daksh-gupta-496203201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>  
 
 ### Badges  
 
 <b>My GitHub Stats</b>
 
+
+<p align="center">
 <a href="http://www.github.com/dakshgupta2002"><img src="https://github-readme-stats.vercel.app/api?username=dakshgupta2002&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dakshgupta2002's GitHub stats" /></a>
+</p>
 
+<p align="center">
 <a href="http://www.github.com/dakshgupta2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshgupta2002&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
+<p align="center">
 <a href="http://www.github.com/dakshgupta2002"><img src="https://activity-graph.herokuapp.com/graph?username=dakshgupta2002&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
 
-<a href="https://github.com/dakshgupta2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgupta2002&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook" alt="Top Languages" /></a>
+<p align="center">
+<a href="https://github.com/dakshgupta2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgupta2002&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook" alt="Top Languages" /></a> 
+</p>
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dakshgupta2002&theme=darkhub&column=4" alt="dakshgupta2002" /></a> 
+</p>
+
