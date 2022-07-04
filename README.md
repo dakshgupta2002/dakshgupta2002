@@ -55,8 +55,8 @@ I have worked with a couple startups as a Full Stack Intern. Checkout my pinned 
 
 <p align="left">
   <a href="https://www.leetcode.com/dakshgupta2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dakshgupta2002" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/dakshgupta2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dakshgupta2002" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/dakshgupta2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dakshgupta2002" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/daksh_g123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dakshgupta2002" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/daksh_g123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dakshgupta2002" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/dakshgupta2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dakshgupta2002" height="30" width="40" /></a>
 
  </p>
