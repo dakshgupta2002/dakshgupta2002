@@ -1,16 +1,13 @@
 Hi 👋 My name is Daksh Gupta
 ============================
 
-Web Developer and Designer
+## MERN stack and problem solving
 ---------------------------
 
 I have worked with a couple startups as a Full Stack Intern. Checkout my pinned Repositories to know more about how I code!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dakshgupta2002@gmail.com](mailto:dakshgupta2002@gmail.com)
-* 🚀  I'm currently working on [Sentimo](http://sentimo.surge.sh)
-* 🧠  I'm learning Advanced Backend
-* 🤝  I'm open to collaborating on MERN stack applications
 
 ### Skills
 
