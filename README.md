@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
    <a href="https://discord.com/">
-    <img src="https://dcbadge.vercel.app/api/shield/800695380064731177" alt="Discord Badge"/>
+    <img src="https://dcbadge.vercel.app/api/shield/731204368593846312" alt="Discord Badge"/>
   </a> <br> <br> 
    <img src="https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue" alt=""/>
 </div>
