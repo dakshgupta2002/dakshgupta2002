@@ -1,3 +1,25 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/dakshgupta1511/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:dakshgupta2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+   <a href="https://discord.com/">
+    <img src="https://dcbadge.vercel.app/api/shield/800695380064731177" alt="Discord Badge"/>
+  </a>
+  
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue" alt=""/>
+</p> 
+
+
 Hi 👋, My name is Daksh Gupta
 ============================
 
@@ -47,13 +69,12 @@ Hi 👋, My name is Daksh Gupta
 
 <h3 align="left">Coding Platforms:</h3>
 
-<p align="center">
-  <a href="https://www.leetcode.com/dakshgupta2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dakshgupta2002" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/daksh_g123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dakshgupta2002" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/daksh_g123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dakshgupta2002" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/dakshgupta2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dakshgupta2002" height="30" width="40" /></a>
 
- </p>
+[![Leetcode](https://cp-logo.vercel.app/leetcode/dakshgupta2002)](https://leetcode.com/dakshgupta2002/)   
+[![Codeforces](https://cp-logo.vercel.app/codeforces/daksh_g123)](https://codeforces.com/daksh_g123/)   
+[![Codechef](https://cp-logo.vercel.app/codechef/daksh_g123)](https://codechef.com/daksh_g123/)  
+
+
 
 ### Badges  
 
