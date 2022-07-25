@@ -1,17 +1,14 @@
-Hi 👋 My name is Daksh Gupta
+Hi 👋, My name is Daksh Gupta
 ============================
 
-## MERN stack and problem solving
----------------------------
-
-I have worked with a couple startups as a Full Stack Intern. Checkout my pinned Repositories to know more about how I code!
+# MERN stack and problem solving
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dakshgupta2002@gmail.com](mailto:dakshgupta2002@gmail.com)
 
 ### Skills
 
-<p align="center" >
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -43,14 +40,14 @@ I have worked with a couple startups as a Full Stack Intern. Checkout my pinned 
 
 ### Socials
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.github.com/dakshgupta2002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/daksh-gupta-496203201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>  
 
 <h3 align="left">Coding Platforms:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.leetcode.com/dakshgupta2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dakshgupta2002" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/daksh_g123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dakshgupta2002" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/daksh_g123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dakshgupta2002" height="30" width="40" /></a>
