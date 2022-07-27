@@ -24,9 +24,6 @@
 
 # MERN stack and problem solving
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [dakshgupta2002@gmail.com](mailto:dakshgupta2002@gmail.com)
-
 ### Languages and Tools
 
 <p align="left"">
