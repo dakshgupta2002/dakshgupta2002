@@ -1,12 +1,12 @@
 
 <h1>
-  hey there
+  Hey everyone!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?t=st=1658754454~exp=1658755054~hmac=fbcafa529c441dff7ee264c7a81c7e0fd327c7deec5788ca9898ef0e8f769f65&w=1380" height="300" width="600"/>
-</p>   
+</p>    -->
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dakshgupta1511/">
