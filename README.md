@@ -60,7 +60,7 @@
 
 [![Leetcode](https://cp-logo.vercel.app/leetcode/dakshgupta2002)](https://leetcode.com/dakshgupta2002/)
 [![Codeforces](https://cp-logo.vercel.app/codeforces/daksh_g123)](https://codeforces.com/daksh_g123/) 
-[![Codechef](https://cp-logo.vercel.app/codechef/daksh_g123)](https://codechef.com/daksh_g123/)
+[![Codechef](https://cp-logo.vercel.app/codechef/daksh_g123)](https://www.codechef.com/users/daksh_g123)
  
 
 <b>My GitHub Stats</b>
