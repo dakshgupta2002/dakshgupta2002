@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently a Computer Science Undergrad.<br>👯 I’m looking to collaborate on projects/hackathons.<br>🤝 I’m looking out for freelancing opportunities.<br>🌱 I’m currently learning new technologies blah blah<br>💬 Lets optimize another solution...<br>⚡ Automation is fun
 
+---  
+[![](https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 
@@ -13,20 +15,19 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dakshgupta2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dakshgupta2002&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgupta2002&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook)
-![](https://github-profile-trophy.vercel.app/?username=dakshgupta2002&theme=darkhub&column=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshgupta2002&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook) <br/>
+![](https://github-profile-trophy.vercel.app/?username=dakshgupta2002&theme=darkhub&column=4) <br/>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dakshgupta2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<br/>
 ![](https://activity-graph.herokuapp.com/graph?username=dakshgupta2002&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph)
-
+<br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=dakshgupta2002&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
