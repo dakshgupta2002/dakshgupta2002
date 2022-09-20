@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Science Undergrad.<br>👯 I’m looking to collaborate on projects/hackathons.<br>🤝 I’m looking out for freelancing opportunities.<br>🌱 I’m currently learning new technologies blah blah<br>💬 Lets optimize another solution...<br>⚡ Automation is fun
+🔭 I’m currently a Computer Science Undergrad.<br>👯 I’m looking to collaborate on projects/hackathons.<br>🤝 I’m looking out for freelancing opportunities.<br>🌱 I’m currently learning new technologies<br>💬 Lets optimize another solution...<br>⚡ Automation is fun
 
 ---  
 [![](https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue)](https://visitcount.itsvg.in)
