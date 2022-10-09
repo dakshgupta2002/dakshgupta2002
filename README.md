@@ -6,6 +6,7 @@
 # 🚀 Achievements:
 - National Finalist Hackon with Amazon 2022    
 - First Runners up at Code Blooded 3.0 by STGI
+- 2,003 position in Biweekly Contest 82
 ---  
 [![](https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue)](https://visitcount.itsvg.in)   
 ## Hacktoberfest 2022   
