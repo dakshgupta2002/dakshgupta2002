@@ -1,19 +1,18 @@
+## Hacktoberfest 2022   
 
+[![@dakshgupta2002's Holopin board](https://holopin.io/api/user/board?user=dakshgupta2002)](https://holopin.io/@dakshgupta2002)
+
+<br/>
 
 # 💫 About Me:
-🔭 I’m currently a Computer Science Undergrad.<br>👯 I’m looking to collaborate on projects/hackathons.<br>🤝 I’m looking out for freelancing opportunities.<br>🌱 I’m currently learning new technologies<br>💬 Lets optimize another solution...<br>⚡ Automation is fun
+🔭 I’m currently a Computer Science Undergrad at PEC, Chd.<br>👯 I’m looking to collaborate on projects/hackathons.<br>🤝 I’m looking out for freelancing opportunities.<br>🌱 I’m currently learning new technologies<br>💬 Lets optimize another solution...<br>⚡ Automation is fun
 
 # 🚀 Achievements:
 - National Finalist Hackon with Amazon 2022    
 - First Runners up at Code Blooded 3.0 by STGI
 - 2,003 position in Biweekly Contest 82
 ---  
-[![](https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue)](https://visitcount.itsvg.in)   
-## Hacktoberfest 2022   
-
-[![@dakshgupta2002's Holopin board](https://holopin.io/api/user/board?user=dakshgupta2002)](https://holopin.io/@dakshgupta2002)
-
-<br/>
+[![](https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue)](https://visitcount.itsvg.in)  
 
 
 ## 🌐 Socials:
