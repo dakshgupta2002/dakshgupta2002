@@ -7,7 +7,13 @@
 - National Finalist Hackon with Amazon 2022    
 - First Runners up at Code Blooded 3.0 by STGI
 ---  
-[![](https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=dakshgupta2002&style=flat-square&color=blue)](https://visitcount.itsvg.in)   
+## Hacktoberfest 2022   
+
+[![@dakshgupta2002's Holopin board](https://holopin.io/api/user/board?user=dakshgupta2002)](https://holopin.io/@dakshgupta2002)
+
+<br/>
+
 
 ## 🌐 Socials:
 
@@ -36,6 +42,7 @@
 <br/>
 ![](https://activity-graph.herokuapp.com/graph?username=dakshgupta2002&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph)
 <br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>
